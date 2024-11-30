@@ -1,0 +1,275 @@
+<?xml version="1" encoding="UTF-8"?>
+<GAO_CONFIG>
+    <Version>3.0</Version>
+    <Mode>Standard</Mode>
+    <AoCore index="0" sample_clock="u_ddr_test/clk" trig_type="0" storage_depth="256" window_num="1" capture_amount="256" implementation="0" trigger_pos="10" module_name="top" force_trigger_by_falling_edge="false">
+        <SignalList>
+            <Bus capture_enable="true" name="u_ddr_test/read_data[63:0]">
+                <Signal>u_ddr_test/read_data[63]</Signal>
+                <Signal>u_ddr_test/read_data[62]</Signal>
+                <Signal>u_ddr_test/read_data[61]</Signal>
+                <Signal>u_ddr_test/read_data[60]</Signal>
+                <Signal>u_ddr_test/read_data[59]</Signal>
+                <Signal>u_ddr_test/read_data[58]</Signal>
+                <Signal>u_ddr_test/read_data[57]</Signal>
+                <Signal>u_ddr_test/read_data[56]</Signal>
+                <Signal>u_ddr_test/read_data[55]</Signal>
+                <Signal>u_ddr_test/read_data[54]</Signal>
+                <Signal>u_ddr_test/read_data[53]</Signal>
+                <Signal>u_ddr_test/read_data[52]</Signal>
+                <Signal>u_ddr_test/read_data[51]</Signal>
+                <Signal>u_ddr_test/read_data[50]</Signal>
+                <Signal>u_ddr_test/read_data[49]</Signal>
+                <Signal>u_ddr_test/read_data[48]</Signal>
+                <Signal>u_ddr_test/read_data[47]</Signal>
+                <Signal>u_ddr_test/read_data[46]</Signal>
+                <Signal>u_ddr_test/read_data[45]</Signal>
+                <Signal>u_ddr_test/read_data[44]</Signal>
+                <Signal>u_ddr_test/read_data[43]</Signal>
+                <Signal>u_ddr_test/read_data[42]</Signal>
+                <Signal>u_ddr_test/read_data[41]</Signal>
+                <Signal>u_ddr_test/read_data[40]</Signal>
+                <Signal>u_ddr_test/read_data[39]</Signal>
+                <Signal>u_ddr_test/read_data[38]</Signal>
+                <Signal>u_ddr_test/read_data[37]</Signal>
+                <Signal>u_ddr_test/read_data[36]</Signal>
+                <Signal>u_ddr_test/read_data[35]</Signal>
+                <Signal>u_ddr_test/read_data[34]</Signal>
+                <Signal>u_ddr_test/read_data[33]</Signal>
+                <Signal>u_ddr_test/read_data[32]</Signal>
+                <Signal>u_ddr_test/read_data[31]</Signal>
+                <Signal>u_ddr_test/read_data[30]</Signal>
+                <Signal>u_ddr_test/read_data[29]</Signal>
+                <Signal>u_ddr_test/read_data[28]</Signal>
+                <Signal>u_ddr_test/read_data[27]</Signal>
+                <Signal>u_ddr_test/read_data[26]</Signal>
+                <Signal>u_ddr_test/read_data[25]</Signal>
+                <Signal>u_ddr_test/read_data[24]</Signal>
+                <Signal>u_ddr_test/read_data[23]</Signal>
+                <Signal>u_ddr_test/read_data[22]</Signal>
+                <Signal>u_ddr_test/read_data[21]</Signal>
+                <Signal>u_ddr_test/read_data[20]</Signal>
+                <Signal>u_ddr_test/read_data[19]</Signal>
+                <Signal>u_ddr_test/read_data[18]</Signal>
+                <Signal>u_ddr_test/read_data[17]</Signal>
+                <Signal>u_ddr_test/read_data[16]</Signal>
+                <Signal>u_ddr_test/read_data[15]</Signal>
+                <Signal>u_ddr_test/read_data[14]</Signal>
+                <Signal>u_ddr_test/read_data[13]</Signal>
+                <Signal>u_ddr_test/read_data[12]</Signal>
+                <Signal>u_ddr_test/read_data[11]</Signal>
+                <Signal>u_ddr_test/read_data[10]</Signal>
+                <Signal>u_ddr_test/read_data[9]</Signal>
+                <Signal>u_ddr_test/read_data[8]</Signal>
+                <Signal>u_ddr_test/read_data[7]</Signal>
+                <Signal>u_ddr_test/read_data[6]</Signal>
+                <Signal>u_ddr_test/read_data[5]</Signal>
+                <Signal>u_ddr_test/read_data[4]</Signal>
+                <Signal>u_ddr_test/read_data[3]</Signal>
+                <Signal>u_ddr_test/read_data[2]</Signal>
+                <Signal>u_ddr_test/read_data[1]</Signal>
+                <Signal>u_ddr_test/read_data[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="u_ddr_test/d32_app_addr[31:0]">
+                <Signal>u_ddr_test/d32_app_addr[31]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[30]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[29]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[28]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[27]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[26]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[25]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[24]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[23]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[22]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[21]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[20]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[19]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[18]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[17]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[16]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[15]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[14]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[13]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[12]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[11]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[10]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[9]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[8]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[7]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[6]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[5]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[4]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[3]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[2]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[1]</Signal>
+                <Signal>u_ddr_test/d32_app_addr[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="u_ddr_test/d32_app_addr_m[31:0]">
+                <Signal>u_ddr_test/d32_app_addr_m[31]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[30]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[29]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[28]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[27]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[26]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[25]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[24]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[23]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[22]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[21]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[20]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[19]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[18]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[17]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[16]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[15]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[14]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[13]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[12]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[11]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[10]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[9]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[8]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[7]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[6]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[5]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[4]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[3]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[2]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[1]</Signal>
+                <Signal>u_ddr_test/d32_app_addr_m[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="u_ddr_test/cnt[15:0]">
+                <Signal>u_ddr_test/cnt[15]</Signal>
+                <Signal>u_ddr_test/cnt[14]</Signal>
+                <Signal>u_ddr_test/cnt[13]</Signal>
+                <Signal>u_ddr_test/cnt[12]</Signal>
+                <Signal>u_ddr_test/cnt[11]</Signal>
+                <Signal>u_ddr_test/cnt[10]</Signal>
+                <Signal>u_ddr_test/cnt[9]</Signal>
+                <Signal>u_ddr_test/cnt[8]</Signal>
+                <Signal>u_ddr_test/cnt[7]</Signal>
+                <Signal>u_ddr_test/cnt[6]</Signal>
+                <Signal>u_ddr_test/cnt[5]</Signal>
+                <Signal>u_ddr_test/cnt[4]</Signal>
+                <Signal>u_ddr_test/cnt[3]</Signal>
+                <Signal>u_ddr_test/cnt[2]</Signal>
+                <Signal>u_ddr_test/cnt[1]</Signal>
+                <Signal>u_ddr_test/cnt[0]</Signal>
+            </Bus>
+            <Signal capture_enable="true">u_ddr_test/rst_n</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_rdy</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_en</Signal>
+            <Signal capture_enable="true">u_ddr_test/wr_data_rdy</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_wdf_wren</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_wdf_end</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_burst</Signal>
+            <Signal capture_enable="true">u_ddr_test/app_rd_data_valid</Signal>
+            <Signal capture_enable="true">u_ddr_test/init_calib_complete</Signal>
+            <Signal capture_enable="true">u_ddr_test/wdone</Signal>
+            <Signal capture_enable="true">u_ddr_test/rdone</Signal>
+            <Signal capture_enable="true">u_ddr_test/data_ok</Signal>
+            <Signal capture_enable="true">u_ddr_test/data_err</Signal>
+            <Bus capture_enable="true" name="num_ok[23:0]">
+                <Signal>num_ok[23]</Signal>
+                <Signal>num_ok[22]</Signal>
+                <Signal>num_ok[21]</Signal>
+                <Signal>num_ok[20]</Signal>
+                <Signal>num_ok[19]</Signal>
+                <Signal>num_ok[18]</Signal>
+                <Signal>num_ok[17]</Signal>
+                <Signal>num_ok[16]</Signal>
+                <Signal>num_ok[15]</Signal>
+                <Signal>num_ok[14]</Signal>
+                <Signal>num_ok[13]</Signal>
+                <Signal>num_ok[12]</Signal>
+                <Signal>num_ok[11]</Signal>
+                <Signal>num_ok[10]</Signal>
+                <Signal>num_ok[9]</Signal>
+                <Signal>num_ok[8]</Signal>
+                <Signal>num_ok[7]</Signal>
+                <Signal>num_ok[6]</Signal>
+                <Signal>num_ok[5]</Signal>
+                <Signal>num_ok[4]</Signal>
+                <Signal>num_ok[3]</Signal>
+                <Signal>num_ok[2]</Signal>
+                <Signal>num_ok[1]</Signal>
+                <Signal>num_ok[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="num_ng[23:0]">
+                <Signal>num_ng[23]</Signal>
+                <Signal>num_ng[22]</Signal>
+                <Signal>num_ng[21]</Signal>
+                <Signal>num_ng[20]</Signal>
+                <Signal>num_ng[19]</Signal>
+                <Signal>num_ng[18]</Signal>
+                <Signal>num_ng[17]</Signal>
+                <Signal>num_ng[16]</Signal>
+                <Signal>num_ng[15]</Signal>
+                <Signal>num_ng[14]</Signal>
+                <Signal>num_ng[13]</Signal>
+                <Signal>num_ng[12]</Signal>
+                <Signal>num_ng[11]</Signal>
+                <Signal>num_ng[10]</Signal>
+                <Signal>num_ng[9]</Signal>
+                <Signal>num_ng[8]</Signal>
+                <Signal>num_ng[7]</Signal>
+                <Signal>num_ng[6]</Signal>
+                <Signal>num_ng[5]</Signal>
+                <Signal>num_ng[4]</Signal>
+                <Signal>num_ng[3]</Signal>
+                <Signal>num_ng[2]</Signal>
+                <Signal>num_ng[1]</Signal>
+                <Signal>num_ng[0]</Signal>
+            </Bus>
+        </SignalList>
+        <Triggers>
+            <Trigger index="0">
+                <SignalList>
+                    <Signal>u_ddr_test/data_ok</Signal>
+                </SignalList>
+            </Trigger>
+            <Trigger index="1">
+                <SignalList>
+                    <Signal>u_ddr_test/data_err</Signal>
+                </SignalList>
+            </Trigger>
+            <Trigger index="2"/>
+            <Trigger index="3"/>
+            <Trigger index="4"/>
+            <Trigger index="5"/>
+            <Trigger index="6"/>
+            <Trigger index="7"/>
+            <Trigger index="8"/>
+            <Trigger index="9"/>
+            <Trigger index="10"/>
+            <Trigger index="11"/>
+            <Trigger index="12"/>
+            <Trigger index="13"/>
+            <Trigger index="14"/>
+            <Trigger index="15"/>
+        </Triggers>
+        <MatchUnits>
+            <MatchUnit index="0" enabled="1" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="1" value1="0" trigger="0"/>
+            <MatchUnit index="1" enabled="1" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="1" value1="0" trigger="1"/>
+            <MatchUnit index="2" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="3" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="4" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="5" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="6" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="7" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="8" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="9" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="10" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="11" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="12" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="13" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="14" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+            <MatchUnit index="15" enabled="0" match_type="0" counter_enable="0" counter_width="2" counter="2" countinuous="0" func="0" value0="" value1=""/>
+        </MatchUnits>
+        <Expressions type="Dynamic" ex_implementation="0">
+            <Expression>M0</Expression>
+            <Expression>M1</Expression>
+        </Expressions>
+    </AoCore>
+    <GAO_ID>0110010011001111</GAO_ID>
+</GAO_CONFIG>
