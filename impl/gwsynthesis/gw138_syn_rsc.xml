@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top">
+    <SubModule name="gw_gao_inst_0" Register="1043" Alu="10" Lut="572" Bsram="8"/>
+    <SubModule name="upll"/>
+    <SubModule name="u_ddr3" Register="5575" Alu="207" Lut="3371" Bsram="24"/>
+    <SubModule name="u_ddr_test" Register="110" Lut="328"/>
+</Module>
